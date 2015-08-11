@@ -1,6 +1,6 @@
 # Uploading documents
 
-Most DocumentCloud users are working PDFs, but our software can work with any file type that OpenOffice supports: Microsoft Word documents, RTFs and OpenDocument files will work just fine. Image files, including tiffs, jpegs and pngs, also will work.
+Most DocumentCloud users are working with PDFs, but our software can work with any file type that OpenOffice supports: Microsoft Word documents, RTFs and OpenDocument files will work just fine. Image files, including tiffs, jpegs and pngs, also will work.
 
 If you open a project before you begin uploading, your new documents will be added to that project.
 
